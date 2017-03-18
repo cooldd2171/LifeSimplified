@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "267243956028",
+    "firebase_url": "https://life-simplified-d7c6e.firebaseio.com",
+    "project_id": "life-simplified-d7c6e",
+    "storage_bucket": "life-simplified-d7c6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267243956028:android:41474c4b2c73eb7e",
+        "android_client_info": {
+          "package_name": "com.example.shoie.lifesimplified"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267243956028-8iul39kglcb759niqeokb7pvktpml3lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCXOamiswCS6m3qBF-3Q-mqIqzlht9gAA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
